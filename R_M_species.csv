@@ -2,11 +2,13 @@ name,species
 Rick Sanchez,Human
 Morty Smith,Human
 Summer Smith,Human
+Beth Sanchez,Human
 Jerry Smith Prime,Human
 Mr. Goldenfold,Human
 Jacob Philip,Human
 Ethan,Human
 Beth Smith,Clone
+Clone Beth,Clone
 Ruben,Human
 Kevin,Alien
 Prince Nebulon,Alien
@@ -45,14 +47,27 @@ Revolio Clockberg Jr.,Alien
 Scary Melissa,Alien
 Western Rick,Human
 Cronenberg Rick,Alien
+ Rick Prime (Cronenbergred dimension),Human
 Cronenberg Morty,Alien
+Morty Smith (Cronenberged Dimension),Human
+Morty Smith (Cronenberged dimension),Human
+Melissa,Other
+Unnamed Son,Human
+An unnamed daughter,Human
+Uncle Steve,Unknown
+Naruto,Unknown
+Beth,Human
+Joyce,Human
 Davin,Human
+Leonard,Human
+Jacob,Human
 Tammy Guterman,Human
 Jerry Smith (C-500A),Human
 Shleemypants,Alien
 Albert Einstein,Human
 Unity,Alien
 Fart,Other
+Joyce Smith,Human
 Krombopulos Michael,Alien
 Blim Blam,Alien
 Beta-Seven,Alien
@@ -403,6 +418,14 @@ Rose,Alien
 Dale's Son,Alien
 Christina LaCroix (C-131),Human
 Tom (Cronenberged dimension),Human
+Beth Smith (Cronenberged dimension),Human
+Jerry Smith (Cronenberged dimension),Human
+Summer Smith (Cronenberged dimension),Human
+Jerry Smith (Replacement Dimension),Human
+Beth Smith (Replacement Dimension),Human
+Summer Smith (Replacement Dimension),Human
+Jerry Smith (unnamed dimension),Human
+Poñeta,Human
 Daphna,Alien
 Grace,Human
 Nikto,Alien
