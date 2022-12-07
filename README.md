@@ -11,3 +11,9 @@ Il dataset su cui effettueremo la SNA contiene la rete di relazioni tra i person
 Rick And Morty è una serie animata statunitense creata da Justin Roiland e Dan Harmon, di genere cosmic horror. La serie è composta da 6 stagioni (in Italia la 6° è in uscita in questo periodo), nelle quali si raccontano le avventure dello “scienziato” Rick e di suo nipote Morty.
 Un dataset basato su questo mondo risulta interessante per l’analisi SNA, in quanto nella storia compaiono numerosi personaggi, provenienti da diverse dimensioni e di diverse specie che nei vari episodi sono portati a combattere insieme o a scontrarsi.
 Nella Tabella 1.1 è riportato una parte del dataset, così da mostrare la sua struttura:
+|src  |dest  |
+|--|--|
+|  Rick Sanchez|Beth Sanchez  |
+|  Rick Sanchez| Diane Sanchez |
+|  ...|  ...|
+| Jessica (Cronenberged Dimension)|  Jessica's Grandma|
