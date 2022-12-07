@@ -1,5 +1,7 @@
 # Social Network Analysis della serie Rick And Morty
-![logo Rick And Morty](https://github.com/Simone-Scalella/networkxProject/blob/main/img_readme/logo.png)
+<p align="center">
+  <img src="https://github.com/Simone-Scalella/networkxProject/blob/main/img_readme/logo.png">
+</p>
 ## 1	Introduzione
 Il seguente progetto ha come scopo l’analisi una rete sociale basata sui personaggi di una nota serie tv, con l’obiettivo di trarre conoscenza da un insieme di dati che a primo impatto non è di facile lettura, come è ap-punto una rete.
 
