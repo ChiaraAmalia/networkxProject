@@ -70,3 +70,5 @@ Abbiamo scelto questo package, in primo luogo, perché compatibile con NetworkX 
   <img src="https://github.com/Simone-Scalella/networkxProject/blob/main/img_readme/Immagine3.png">
 </p>
 
+Per leggere la documentazione delle analisi:
+- [Capitolo 2: Analisi Descrittiva](Doc Analisi Descrittiva/README.md)
