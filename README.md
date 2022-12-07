@@ -50,3 +50,23 @@ Ci siamo serviti della libreria Beautiful Soup che permette l’estrazione di da
 </p>
 
 Il dataset che ne è risultato è quello che abbiamo esplicato nel paragrafo precedente.
+
+## 1.3 1.3	Strumenti utilizzati
+### 1.3.1	Beautiful Soup
+Abbiamo utilizzato la libreria Beautiful Soup, per poter estrarre i dati di interesse dalle pagine web dei vari personaggi.
+A seguito dell’import di tale libreria, si hanno a disposizione classi e metodi per gestire lo scraping di dati da file di tipo HTML e XML, quindi permette di ricercare ed estrarre tag o il testo in essi presente, di effettuare il filtraggio in base al tipo di tag e così via… 
+### 1.3.2	NetworkX
+Per poter realizzare il progetto utilizzando l’ambiente Python, si è deciso di utilizzare la libreria NetworkX, lo strumento ideale per la social network analysis.
+Questa libreria mette a disposizione classi e metodi per gestire e manipolare grafi di diverso tipo, tra cui grafi diretti, indiretti, multigrafi e tanti altri. Tramite questa libreria è possibile anche convertire grafi tra vari for-mati, visualizzandoli in 2D o 3D, inoltre, possiamo esplorare proprietà dei grafi, quali grado, raggio, diametro e tante altre. Infine, possiamo calcolare sottografi e altre strutture particolari.
+NetworkX ha una notevole flessibilità di rappresentazione, infatti permette di associare a nodi ed archi qual-siasi tipo di dato, come ad esempio testo, immagini, numeri, record XML e tanti altri.
+In conclusione, si tratta di un framework efficiente, ampiamente scalabile, portabile e molto aggiornato. Ver-rà utilizzato per effettuare le varie operazioni di analisi e visualizzazione sul grafo d’interesse.
+### 1.3.3	Gravis
+Abbiamo utilizzato il package Gravis, per poter rappresentare il grafo risultante dalla nostra analisi in maniera dinamica per una più chiara comprensione di quest’ultimo.
+Il nome di tale package sta per graph visualization e il suo scopo è quello di creare grafi (e reti) interattivi sia in 2D che in 3D.
+Usa Python per preparare i dati dei grafici e tecnologie web (HTML/CSS/JS) per effettuare il rendering.
+Abbiamo scelto questo package, in primo luogo, perché compatibile con NetworkX ed anche perché a diffe-renza di altri package disponibili rende possibile incorporare i grafici risultanti in un Jupyter notebook oltre che come file HTML.
+
+<p align="center">
+  <img src="https://github.com/Simone-Scalella/networkxProject/blob/main/img_readme/Immagine3.png">
+</p>
+
