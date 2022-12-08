@@ -79,3 +79,10 @@ Osservando l’ego-network riportata nella figura sopra, emerge un aspetto parti
 Nell’area in basso, si può vedere che i vicini del nodo “ego” presentano molte connessioni reciproche, formando una struttura alquanto fitta nella quale sicuramente le informazioni transitano in maniera più efficiente. Questa regione è caratterizzata dai membri della famiglia, intesa in senso ampio.
 Si può notare come la parte densa sia alquanto similare a quella della ego network di Rick Sanchez.
 Invece nella parte in alto, è visibile come i vicini di Morty Smith (che non fanno parte della famiglia), non siano propensi ad essere connessi tra loro. Questa parte è costituita prettamente dalle ex-fidanzate o interessi amorosi del nodo centrale.
+
+
+- [Capitolo 1: Introduzione](../README.md)
+- [Capitolo 2: Analisi Descrittiva](../Doc%20Analisi%20Descrittiva/README.md)
+- [Capitolo 3: Analisi delle Centralità](../Doc%20Analisi%20Centralità/README.md)
+- [Capitolo 5: Group Centrality](../Doc%20Group%20Centrality/README.md)
+
