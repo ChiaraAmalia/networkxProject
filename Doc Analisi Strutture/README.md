@@ -26,14 +26,14 @@ Clique 1.
 > ['Rick Sanchez', 'Morty Smith', 'Summer Smith', 'Beth Smith', 'Morty Jr.', "Rick's Father", 'Space Beth', 'Hemorrhage', 'Diane Sanchez', 'Sleepy Gary']
 
 <p align="center">
-  <img height=300 src="https://github.com/Simone-Scalella/networkxProject/blob/main/img_readme/cap4_2.png">
+  <img height=500 src="https://github.com/Simone-Scalella/networkxProject/blob/main/img_readme/cap4_2.png">
 </p>
 
 Clique 2.	
 > ['Rick Sanchez', 'Jerry Smith', 'Summer Smith', 'Beth Smith', 'Morty Jr.', 'Space Beth', "Rick's Father", 'Hemorrhage', 'Diane Sanchez', 'Sleepy Gary']
 
 <p align="center">
-  <img height=300 src="https://github.com/Simone-Scalella/networkxProject/blob/main/img_readme/cap4_3.png">
+  <img height=500 src="https://github.com/Simone-Scalella/networkxProject/blob/main/img_readme/cap4_3.png">
 </p>
 
 È possibile notare che le due cliques in questione è costituita essenzialmente dai membri della famiglia di Rick Sanchez. Saltano all’occhio due personaggi che non sono della famiglia in senso stretto e sono Hemorrhage e Sleepy Gary, dei quali però il primo istaura legami di parentela con tutta la famiglia a seguito del matrimonio con Summer Smith nel secondo episodio della terza stagione e il secondo invece instaura legami con tutta la famiglia in quanto alieno parassita che vuole convincere tutti di essere parte delle loro vite.
@@ -48,7 +48,7 @@ I nodi in più rispetto alle cliques sono: ['Jerry Smith (C-131)', 'Unnamed Uncl
 Si ha un numero maggiore di nodi in quanto nei k-core, non c’è più il vincolo di connessione diretta a ciascun altro nodo, dunque, il percorso tra due nodi qualsiasi può comprendere più di un arco.
 
 <p align="center">
-  <img height=300 src="https://github.com/Simone-Scalella/networkxProject/blob/main/img_readme/cap4_4.png">
+  <img height=500 src="https://github.com/Simone-Scalella/networkxProject/blob/main/img_readme/cap4_4.png">
 </p>
 
 I nodi in più rispetto alle cliques, rappresentano dei personaggi che possono comunque essere considerati del-la famiglia di Rick Sanchez ma in un senso più esteso e soprattutto sono personaggi che nella serie compaiono poche volte, non rendendoli fondamentali e legati con tutti gli altri delle cliques.
@@ -61,7 +61,7 @@ Per fare ciò ci siamo serviti del metodo ego_graph(), messo a disposizione da N
 Si è proceduto costruendo l’ego network relativa al personaggio di Rick, e successivamente si è analizzata la rete risultante.
 
 <p align="center">
-  <img height=300 src="https://github.com/Simone-Scalella/networkxProject/blob/main/img_readme/cap4_5.png">
+  <img height=500 src="https://github.com/Simone-Scalella/networkxProject/blob/main/img_readme/cap4_5.png">
 </p>
 
 Osservando l’ego-network riportata nella Figura sopra, emerge un aspetto particolare, ovvero la presenza di due regioni con caratteristiche assai differenti.
@@ -72,7 +72,7 @@ Invece nella parte in alto, è visibile come i vicini di Rick Sanchez (che non f
 Si è proceduto costruendo l’ego network relativa al personaggio di Rick, e successivamente si è analizzata la rete risultante.
 
 <p align="center">
-  <img height=300 src="https://github.com/Simone-Scalella/networkxProject/blob/main/img_readme/cap4_6.png">
+  <img height=500 src="https://github.com/Simone-Scalella/networkxProject/blob/main/img_readme/cap4_6.png">
 </p>
 
 Osservando l’ego-network riportata nella figura sopra, emerge un aspetto particolare, ovvero la presenza di due regioni con caratteristiche assai differenti.
