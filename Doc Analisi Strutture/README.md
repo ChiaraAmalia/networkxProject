@@ -14,7 +14,7 @@ Le triadi chiuse trovate sono state 801.
 Abbiamo successivamente filtrato le triadi per prendere in considerazione solamente quelle che contenessero sia Rick che Morty e abbiamo così ridotto il numero a 32.
 
 <p align="center">
-  <img src="https://github.com/Simone-Scalella/networkxProject/blob/main/img_readme/cap4_1.jpg">
+  <img height=500 src="https://github.com/Simone-Scalella/networkxProject/blob/main/img_readme/cap4_1.jpg">
 </p>
 
 ### 4.2	Clique
