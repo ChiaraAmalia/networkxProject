@@ -76,6 +76,6 @@ Infine, è stato utilizzato il Kamada Kaway Layout, il quale dispone i nodi seco
 
 Per leggere la documentazione delle analisi:
 - [Capitolo 1: Introduzione](https://github.com/Simone-Scalella/networkxProject)
-- [Capitolo 3: Analisi delle Strutture](./Doc%20Analisi%20Centralità/README.md)
-- [Capitolo 4: Analisi delle Strutture](./Doc%20Analisi%20Strutture/README.md)
-- [Capitolo 5: Group Centrality](./Doc%20Group%20Centrality/README.md)
+- [Capitolo 3: Analisi delle Strutture](../Doc%20Analisi%20Centralità/README.md)
+- [Capitolo 4: Analisi delle Strutture](../Doc%20Analisi%20Strutture/README.md)
+- [Capitolo 5: Group Centrality](../Doc%20Group%20Centrality/README.md)
