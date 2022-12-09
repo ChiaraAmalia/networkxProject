@@ -71,4 +71,7 @@ Abbiamo scelto questo package, in primo luogo, perché compatibile con NetworkX 
 </p>
 
 Per leggere la documentazione delle analisi:
-- [Capitolo 2: Analisi Descrittiva](Doc Analisi Descrittiva/README.md)
+- [Capitolo 2: Analisi Descrittiva](Doc%20Analisi%20Descrittiva/README.md)
+- [Capitolo 3: Analisi Descrittiva](Doc%20Analisi%20Centralità/README.md)
+- [Capitolo 4: Analisi delle Strutture](Doc%20Analisi%20Strutture/README.md)
+- [Capitolo 5: Group Centrality](Doc%20Group%20Centrality/README.md)
