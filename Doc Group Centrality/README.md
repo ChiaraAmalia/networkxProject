@@ -12,12 +12,12 @@ Le metriche utizzate sono analoghe per analisi dei nodi singoli, con gruppi di n
   dei percorsi minimi tra le coppie di nodi del grafo che passano per almeno uno dei nodi
   del gruppo e il totale di shortest path di tutte le possibili coppie del grafo
 
+### 5.1 Albero genealogico
 <p align="center">
   <img height=300 src="https://github.com/Simone-Scalella/networkxProject/blob/main/img_readme/cap5_1.jpg">
 </p>
 
 Nella figura viene mostrata albero genealogico dei caratteri principali, da notare che i caratteri possono essere duplicati in questo albero per la causa di multiverso.
-
 
 ## Per simone
 Gli immagini sono nel notebook di "networkLeo.ipynb"
@@ -27,12 +27,27 @@ Le suddivisione in tre gruppi sono del seguente modo:
 <p align="center">
   <img height=300 src="https://github.com/Simone-Scalella/networkxProject/blob/main/img_readme/toSimo.jpg">
 </p>
-
 Dove i tre label sono sinistro centro e destro come nell'immagine.
 
-## 4 Analisi delle strutture
-- [Capitolo 1: Introduzione](../README.md)
-- [Capitolo 2: Analisi Descrittiva](../Doc%20Analisi%20Descrittiva/README.md)
-- [Capitolo 3: Analisi delle Centralità](../Doc%20Analisi%20Centralità/README.md)
-- [Capitolo 4: Analisi delle Strutture](../Doc%20Analisi%20Strutture/README.md)
+
+### 5.1 Group Degree Centrality
+
+<p align="center">
+  <img height=300 src="https://github.com/Simone-Scalella/networkxProject/blob/main/img_readme/cap5_2.jpg">
+</p>
+
+### 5.2 Group Closness Centrality
+
+<p align="center">
+  <img height=300 src="https://github.com/Simone-Scalella/networkxProject/blob/main/img_readme/cap5_3.jpg">
+</p>
+
+### 5.3 Group Betweenness Centrality
+<p align="center">
+  <img height=300 src="https://github.com/Simone-Scalella/networkxProject/blob/main/img_readme/cap5_4.jpg">
+</p>
+
+
+
+
 
